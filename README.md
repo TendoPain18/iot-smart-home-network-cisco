@@ -2,7 +2,7 @@
 
 A Cisco Packet Tracer simulation of a wireless IoT Smart Home network demonstrating device registration, remote monitoring, and control through a centralized IoT server.
 
-![Project Thumbnail](images/thumbnail.png)
+[![Watch the video](images/youtube_window_1.png)](https://www.youtube.com/embed/eUwc0iWXGfI?si=jmpStymQGNWTx46K)
 
 ## 📋 Description
 
